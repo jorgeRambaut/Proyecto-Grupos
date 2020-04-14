@@ -1,0 +1,7 @@
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\bin\Debug\Programa Ingreso Producto.exe.config
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\bin\Debug\Programa Ingreso Producto.exe
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\bin\Debug\Programa Ingreso Producto.pdb
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\obj\Debug\Programa Ingreso Producto.csprojAssemblyReference.cache
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\obj\Debug\Programa Ingreso Producto.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\obj\Debug\Programa Ingreso Producto.exe
+C:\Users\JORGE\source\repos\Programa Ingreso Producto\obj\Debug\Programa Ingreso Producto.pdb
